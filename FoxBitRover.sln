@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FoxBitRover", "FoxBitRover\FoxBitRover.csproj", "{2E83E0DA-A0D2-45C8-899A-1FA1D4DDF592}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoxBitRoverTest", "FoxBitRoverTest\FoxBitRoverTest.csproj", "{1E0A4F0A-29C1-4C27-9CC2-8DA9A48F0692}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E83E0DA-A0D2-45C8-899A-1FA1D4DDF592}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E83E0DA-A0D2-45C8-899A-1FA1D4DDF592}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E83E0DA-A0D2-45C8-899A-1FA1D4DDF592}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E83E0DA-A0D2-45C8-899A-1FA1D4DDF592}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E0A4F0A-29C1-4C27-9CC2-8DA9A48F0692}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E0A4F0A-29C1-4C27-9CC2-8DA9A48F0692}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E0A4F0A-29C1-4C27-9CC2-8DA9A48F0692}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E0A4F0A-29C1-4C27-9CC2-8DA9A48F0692}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14684050-05F2-4132-9AB2-7F64D868B756}
+	EndGlobalSection
+EndGlobal
