@@ -37,12 +37,12 @@ namespace FoxBitRoverTest
             };
 
             var maxPoints = new List<int>() { 5, 5 };
-            var moves = "MRRMMRMRRM";
+            var moves = "MMRMMRMRRM";
 
             posicoes.Movimentar(maxPoints, moves);
 
             var actualOutput = $"{posicoes.X} {posicoes.Y} {posicoes.Direcoes.ToString()}";
-            var expectedOutput = "2 3 S";
+            var expectedOutput = "5 1 E";
 
             Assert.AreEqual(expectedOutput, actualOutput);
         }
